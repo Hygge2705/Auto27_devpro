@@ -10,7 +10,7 @@ public class Main {
         //khởi tạo trình duyệt chrome
         WebDriver driver = new ChromeDriver();
 
-        //mở trang swag labs
+        //mở trang
         driver.get("https://serenity-bdd.github.io/");
 
         // in ra tiêu đề trang để kiểm tra
